@@ -4,7 +4,7 @@ SEOTitle: RyanLee的博客 | RyanLee
 header-img: img/home-bg-he.png
 email: 389849488@qq.com
 description: "RyanLee的博客"
-keyword: "RyanLee, RyanLee的博客, rainbom sea, RyanLee, Python blog"
+keyword: "RyanLee, RyanLee的博客,  Ryan.Lee, Python blog"
 url: "http://RyanLee0210.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/RyanLee0210/RyanLee0210.github.io.git" #code repository | 代码仓库
@@ -12,7 +12,7 @@ github_repo: "https://github.com/RyanLee0210/RyanLee0210.github.io.git" #code re
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "不断提升自己才是王道!"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
@@ -20,10 +20,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-facebook_username: RyanLee
 github_username: RyanLee
-zhihu_username: RyanLee
-csdn_username: RyanLee
 
 
 
@@ -94,14 +91,8 @@ friends: [
         title: "GitHub·RyanLee",
         href: "http://RyanLee0210.github.io"
     },{
-        title: "CSDN·RyanLee",
-        href: "https://blog.csdn.net/qq_39268193"
-    },{
-        title: "知乎·RyanLee",
-        href: "https://www.zhihu.com/people/RyanLee0210"
-    },{
-        title: "GitBook·RyanLee",
-        href: "https://legacy.gitbook.com/@RyanLee0210"
+        title: "CSDN·RyanLee_Java",
+        href: "https://blog.csdn.net/RyanLee_Java"
     }
 ]
 
